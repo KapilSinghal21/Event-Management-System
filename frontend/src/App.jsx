@@ -327,7 +327,7 @@ function Layout({ children }) {
                 </a>
               </div>
               <p className="text-indigo-100 text-sm">
-                Developed by <span className="font-semibold text-white">Silent Four</span>
+                Developed by <span className="font-semibold text-white">Kapil & Saty Prakash Singhal</span>
               </p>
             </div>
           </motion.div>
